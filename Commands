@@ -1,0 +1,7 @@
+Kubectl exec - it pod_name - - /bin/bash
+Kh get pods 
+Kh describe deployment | grep Images 
+Kh get deployments 
+Kh get cj 
+Kh get jobs 
+Kh get logs pod name 
